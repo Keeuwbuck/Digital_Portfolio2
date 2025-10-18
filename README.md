@@ -63,4 +63,15 @@ Prior to the event, I researched the professionals that is going to attend the e
 The workstation was a success. I recieved positive feedback from the professionals. The expierence allowed me to engage effectively with people.
 
 ## CWorkplace Etiquette
-![Evidence](
+![Evidence](https://github.com/Keeuwbuck/Digital_Portfolio2/blob/main/workplace.png)
+#### Situation
+During my internship at my company I realised that people come late to work without facing any consequences. I also realisedduring lunch time they are doing the same. This created negative views for some of the workers
+
+#### Task
+Although these things were happening in work place i tried to be professional at all times. I respected the work hours, arrived early for work and returned early to the office during our lunch time.
+
+#### Action
+I reminded some of the workers about our work hours. I encourage them to respect the work hours and to try to arrive early as possible. This is the reason I always to to act professional to set an example to my fellow workers
+
+#### Result
+My supervisor started to recognize my performance and stated that he is pleased with my performances since I follow the companies polocies. My colleagues started to see what is happening and they started to adjust their times and they started to come earlier to work.
