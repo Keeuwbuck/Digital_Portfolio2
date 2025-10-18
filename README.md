@@ -16,5 +16,22 @@ I improved our groups communication between each other by implementing 5 minutes
 As 2 weeks went by the communication our group significantly improved. Members that were hesitant to speak began to speak more freely and engaged more with other members. 
 
 
+
+
 ## Interview skills
+![Evidence](https://github.com/Keeuwbuck/Digital_Portfolio2/blob/main/interview%20skills.png)
+
+#### Situation
+As part of my career development i had to participate in a mock interview video. This video prepared me alot and gave me alot of confidence to attend a real interview. I recently had an interview with a company and it went surprisingly good. I talked with confidence and answered the question correctly. Having the mock interview gave me the ability to attend the interview wirh confidence.
+
+#### Task
+The goal was to maintain a good body language, eye contact and use professional tone throughout the whole interview. 
+
+#### Action
+To prepare myself i researched interview queations i could face in the interview. This allowed me to have well structured answers and answers any question with confidence. I took deep breaths just to take the nerves away and continue to be positive.
+
+#### Result
+The interviewer gave me positive feedback to improve for any new interview for the future. The interview went well but there is alot of key aspects I still need to improve for my next interview. For example i have to do research about the company as well and know they history as well. This gave me a clear idea of what to expect for interview in the future.
+
+#### Mock Interview
 
