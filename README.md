@@ -34,4 +34,18 @@ To prepare myself i researched interview queations i could face in the interview
 The interviewer gave me positive feedback to improve for any new interview for the future. The interview went well but there is alot of key aspects I still need to improve for my next interview. For example i have to do research about the company as well and know they history as well. This gave me a clear idea of what to expect for interview in the future.
 
 #### Mock Interview
+![Evidence](https://github.com/Keeuwbuck/Digital_Portfolio2/blob/main/interview.png)
+#### Situation
+ As part of our course we have to participate in a mock interview. The is to prepare us for real interviews in the future. This is a great expierence to learn and take notes for any upcoming interview.
 
+ #### Task
+The goal is to prepare for real world interviews.
+
+#### Action
+To prepare for upcoming interviews I recorded myself to see if I speak with confidence, to observe my tone and facial expressions. In the interview I made sure to listern to each questions carefully and answer the questions accordingly to the knowledge i have.
+
+#### Result
+The feedback I recieved during my mock interview was that i need to improve my speech and use a more formal tone. Overall the interview went well and I am ready for interviews for the future.
+
+## Proffesional Networking
+![Evidence](
