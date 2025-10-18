@@ -47,5 +47,20 @@ To prepare for upcoming interviews I recorded myself to see if I speak with conf
 #### Result
 The feedback I recieved during my mock interview was that i need to improve my speech and use a more formal tone. Overall the interview went well and I am ready for interviews for the future.
 
-## Proffesional Networking
+## Professional Networking
+![Evidence](https://github.com/Keeuwbuck/Digital_Portfolio2/blob/main/networking.png)
+
+#### Situation 
+I attended an IT worksation in Langebaan. This gave me the opportunity to interact with industry professionals from various fields. This was my firsst time attending such an event and I made sure to interact at all times and ask question to gain knowledge. I felt very nervous to ask questions but I needed to get out of my comfort zone. It was a very exciting expierence which I gained a lot of knowledge.
+
+#### Task
+The goal was to build connections with people in higher positions and learn from them as much as possible. It was clear that i had to make a positive impact incase I get a job opportunity.
+
+#### Action
+Prior to the event, I researched the professionals that is going to attend the event in order to prepare relevant questions.
+
+#### Result
+The workstation was a success. I recieved positive feedback from the professionals. The expierence allowed me to engage effectively with people.
+
+## CWorkplace Etiquette
 ![Evidence](
